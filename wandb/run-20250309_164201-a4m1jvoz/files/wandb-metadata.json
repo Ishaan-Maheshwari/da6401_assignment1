@@ -1,0 +1,31 @@
+{
+  "os":  "Windows-11-10.0.26100-SP0",
+  "python":  "CPython 3.12.5",
+  "startedAt":  "2025-03-09T11:12:01.453448Z",
+  "program":  "Assignment-1.ipynb",
+  "codePath":  "Assignment-1.ipynb",
+  "git":  {
+    "remote":  "https://github.com/Ishaan-Maheshwari/dl-assignment-1.git",
+    "commit":  "6ac1fdd39ad88c0423f128dfedad76bf54da805c"
+  },
+  "email":  "ishaanmaheshwari445@gmail.com",
+  "root":  "C:\\Users\\Ishaan Maheshwari\\Documents\\DeepLearning\\dl-assignment-1",
+  "host":  "Ishaan",
+  "executable":  "C:\\Users\\Ishaan Maheshwari\\Documents\\DeepLearning\\dl-assignment-1\\.env\\Scripts\\python.exe",
+  "codePathLocal":  "Assignment-1.ipynb",
+  "cpu_count":  2,
+  "cpu_count_logical":  4,
+  "disk":  {
+    "/":  {
+      "total":  "511105298432",
+      "used":  "242142863360"
+    }
+  },
+  "memory":  {
+    "total":  "8241160192"
+  },
+  "cpu":  {
+    "count":  2,
+    "countLogical":  4
+  }
+}
