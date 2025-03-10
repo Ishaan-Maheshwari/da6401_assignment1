@@ -1,0 +1,20 @@
+wandb_version: 1
+
+activation:
+  value: tanh
+batch_size:
+  value: 128
+epochs:
+  value: 10
+hidden_layers:
+  value: 4
+l2_reg:
+  value: 0.0005
+learning_rate:
+  value: 0.0001
+neurons_per_layer:
+  value: 64
+optimizer:
+  value: momentum
+weight_init:
+  value: Xavier
