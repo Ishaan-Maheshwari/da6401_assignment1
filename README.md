@@ -239,11 +239,11 @@ This runs **10 different training experiments** with random hyperparameter value
 
 ## **5️⃣ GitHub Repository**
 
-You can find the GitHub repository for this project [here](https://github.com/YourUsername/Neural-Network-Training).
+You can find the GitHub repository for this project [here](https://github.com/Ishaan-Maheshwari/da6401_assignment1.git).
 
 ---
 
 ## **6️⃣ WandB Report**
-The link to the W&B report is: [https://wandb.ai/ishaan_maheshwari-indian-institute-of-technology-madras/assignment-1](https://wandb.ai/ishaan_maheshwari-indian-institute-of-technology-madras/assignment-1)
+The link to the W&B report is: [https://wandb.ai/ishaan_maheshwari-indian-institute-of-technology-madras/assignment-1/reports/Ishaan-Maheshwari-s-DA6401-Assignment-1--VmlldzoxMTgyMzQwNQ?accessToken=qmqrmp6mxgsqt3tzvrm5yh7fubh94l108hn6qqtvxo5epipaekwlxa6lzvbk282e](https://wandb.ai/ishaan_maheshwari-indian-institute-of-technology-madras/assignment-1/reports/Ishaan-Maheshwari-s-DA6401-Assignment-1--VmlldzoxMTgyMzQwNQ?accessToken=qmqrmp6mxgsqt3tzvrm5yh7fubh94l108hn6qqtvxo5epipaekwlxa6lzvbk282e)
 
 ---
