@@ -33,8 +33,8 @@ def main():
     parser = argparse.ArgumentParser(description="Train a feedforward neural network.")
 
     # WandB arguments
-    parser.add_argument("-wp", "--wandb_project", default="myprojectname", help="WandB project name")
-    parser.add_argument("-we", "--wandb_entity", default="myname", help="WandB entity")
+    parser.add_argument("-wp", "--wandb_project", default="assignment-1", help="WandB project name")
+    parser.add_argument("-we", "--wandb_entity", default="ishaan_maheshwari-indian-institute-of-technology-madras", help="WandB entity")
 
     # Dataset & training parameters
     parser.add_argument("-d", "--dataset", choices=["mnist", "fashion_mnist"], default="fashion_mnist", help="Dataset to use")

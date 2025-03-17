@@ -99,8 +99,9 @@ class NeuralNetwork:
         return gradients_w, gradients_b
 
     def update_weights(self, gradients_w, gradients_b):
-        """ Apply gradient updates using the optimizer """
+        """ Apply optimizer updates to weights and biases. """
         self.optimizer.update(self.weights, self.biases, gradients_w, gradients_b)
+
 
     def train_step(self, X_batch, y_batch):
         """ Perform one training step (forward + backward + update) """
